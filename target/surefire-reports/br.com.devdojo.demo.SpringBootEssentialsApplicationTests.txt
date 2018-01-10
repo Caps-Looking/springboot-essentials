@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.devdojo.demo.SpringBootEssentialsApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.079 sec - in br.com.devdojo.demo.SpringBootEssentialsApplicationTests
