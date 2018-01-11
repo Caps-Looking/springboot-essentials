@@ -7,19 +7,37 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="79d6feac-4724-444d-a7ce-d4f547527e67" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_security_spring_security_test_4_2_3_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/JWTAuthenticationFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/JWTAuthorizationFilter.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConstants.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/docs/SwaggerConfig.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTokenTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change beforePath="$PROJECT_DIR$/springboot-essentials.iml" afterPath="$PROJECT_DIR$/springboot-essentials.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/AbstractEntity.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/AbstractEntity.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/endpoint/StudentEndpoint.class" afterPath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/endpoint/StudentEndpoint.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/model/AbstractEntity.class" afterPath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/model/AbstractEntity.class" />
-      <change beforePath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/model/Student.class" afterPath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/model/Student.class" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/devdojo/demo/StudentRepositoryTest.class" afterPath="$PROJECT_DIR$/target/test-classes/br/com/devdojo/demo/StudentRepositoryTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/User.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/User.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTest.java" afterPath="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTest.java" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/config/SecurityConfig.class" afterPath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/config/SecurityConfig.class" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/model/User.class" afterPath="$PROJECT_DIR$/target/classes/br/com/devdojo/demo/model/User.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/devdojo/demo/endpoint/StudentEndpointTest$Config.class" afterPath="$PROJECT_DIR$/target/test-classes/br/com/devdojo/demo/endpoint/StudentEndpointTest$Config.class" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/devdojo/demo/endpoint/StudentEndpointTest.class" afterPath="$PROJECT_DIR$/target/test-classes/br/com/devdojo/demo/endpoint/StudentEndpointTest.class" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -74,32 +92,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="StudentEndpointTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1649">
-              <caret line="133" column="58" lean-forward="false" selection-start-line="133" selection-start-column="58" selection-end-line="133" selection-end-column="58" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudentEndpoint.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="StudentEndpoint.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="102">
+              <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="SwaggerConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/docs/SwaggerConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="76" column="48" lean-forward="false" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
-              <folding />
+            <state relative-caret-position="193">
+              <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -110,8 +120,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -119,6 +130,8 @@
     <findStrings>
       <find>MethodArgumentNotValidException</find>
       <find>httpmessagenotreadable</find>
+      <find>e</find>
+      <find>role</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -143,24 +156,29 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/handler/RestExceptionHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/StudentRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/adapter/SpringBootEssentialsAdapter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/User.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/37069c45-d64f-46f1-b4b6-10a80e15dffe/console_1.sql" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/37069c45-d64f-46f1-b4b6-10a80e15dffe/console.sql" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/PasswordEncoder.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/service/CustomUserDetailService.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/util/CustomSortDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/PageableResponse.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaClientDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/handler/RestResponseExceptionHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaSpringClientTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/StudentRepositoryTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/AbstractEntity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/JWTAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/JWTAuthorizationFilter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java" />
         <option value="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTokenTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/docs/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java" />
       </list>
     </option>
   </component>
@@ -186,7 +204,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="745" />
@@ -339,7 +357,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -364,30 +382,6 @@
               <item name="springboot-essentials" type="58d84e3e:PackageViewProjectNode" />
               <item name="springboot-essentials" type="616d4139:PackageViewModuleNode" />
               <item name="br.com.devdojo.demo" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="springboot-essentials" type="58d84e3e:PackageViewProjectNode" />
-              <item name="springboot-essentials" type="616d4139:PackageViewModuleNode" />
-              <item name="br.com.devdojo.demo" type="1f31426a:PackageElementNode" />
-              <item name="config" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="springboot-essentials" type="58d84e3e:PackageViewProjectNode" />
-              <item name="springboot-essentials" type="616d4139:PackageViewModuleNode" />
-              <item name="br.com.devdojo.demo" type="1f31426a:PackageElementNode" />
-              <item name="handler" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="springboot-essentials" type="58d84e3e:PackageViewProjectNode" />
-              <item name="springboot-essentials" type="616d4139:PackageViewModuleNode" />
-              <item name="br.com.devdojo.demo" type="1f31426a:PackageElementNode" />
-              <item name="javaclient" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="springboot-essentials" type="58d84e3e:PackageViewProjectNode" />
-              <item name="springboot-essentials" type="616d4139:PackageViewModuleNode" />
-              <item name="br.com.devdojo.demo" type="1f31426a:PackageElementNode" />
-              <item name="util" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -449,6 +443,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springboot-essentials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+              <item name="endpoint" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -504,7 +507,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StudentEndpointTest">
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -526,7 +529,7 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="StudentEndpointTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentEndpointTokenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="br.com.devdojo.demo.endpoint.*" />
@@ -537,7 +540,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="br.com.devdojo.demo.endpoint" />
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTest" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTokenTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -551,7 +554,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="StudentEndpointTest.createShouldPersistDataAndReturnStatusCode201" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentEndpointTokenTest.createShouldPersistDataAndReturnStatusCode201" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="br.com.devdojo.demo.endpoint.*" />
@@ -562,7 +565,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="br.com.devdojo.demo.endpoint" />
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTest" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTokenTest" />
       <option name="METHOD_NAME" value="createShouldPersistDataAndReturnStatusCode201" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -576,7 +579,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="StudentEndpointTest.createWhenNameIsNullShouldReturnStatusCode400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentEndpointTokenTest.createWhenNameIsNullShouldReturnStatusCode400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="br.com.devdojo.demo.endpoint.*" />
@@ -587,7 +590,7 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="br.com.devdojo.demo.endpoint" />
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTest" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTokenTest" />
       <option name="METHOD_NAME" value="createWhenNameIsNullShouldReturnStatusCode400" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -601,7 +604,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="StudentEndpointTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentEndpointTokenTest.deleteWhenUserDoesNotHaveRoleAdminShouldReturnStatusCode403" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="br.com.devdojo.demo.endpoint.*" />
@@ -612,8 +615,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="br.com.devdojo.demo.endpoint" />
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTest" />
-      <option name="METHOD_NAME" value="deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTokenTest" />
+      <option name="METHOD_NAME" value="deleteWhenUserDoesNotHaveRoleAdminShouldReturnStatusCode403" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -626,7 +629,7 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="StudentEndpointTest.getStudentByIdWhenUsernameAndPasswordAreCorrectAndStudentDoesNotExistShouldReturnStatusCode404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentEndpointTokenTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="br.com.devdojo.demo.endpoint.*" />
@@ -637,8 +640,8 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="br.com.devdojo.demo.endpoint" />
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTest" />
-      <option name="METHOD_NAME" value="getStudentByIdWhenUsernameAndPasswordAreCorrectAndStudentDoesNotExistShouldReturnStatusCode404" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.endpoint.StudentEndpointTokenTest" />
+      <option name="METHOD_NAME" value="deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -719,19 +722,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.DemoApplication" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.getStudentByIdWhenUsernameAndPasswordAreCorrectAndStudentDoesNotExistShouldReturnStatusCode404" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.createWhenNameIsNullShouldReturnStatusCode400" />
-      <item index="5" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.createShouldPersistDataAndReturnStatusCode201" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.deleteWhenUserDoesNotHaveRoleAdminShouldReturnStatusCode403" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.createWhenNameIsNullShouldReturnStatusCode400" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.createShouldPersistDataAndReturnStatusCode201" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.createShouldPersistDataAndReturnStatusCode201" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.createWhenNameIsNullShouldReturnStatusCode400" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.StudentEndpointTest.getStudentByIdWhenUsernameAndPasswordAreCorrectAndStudentDoesNotExistShouldReturnStatusCode404" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.createShouldPersistDataAndReturnStatusCode201" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.createWhenNameIsNullShouldReturnStatusCode400" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.deleteWhenUserDoesNotHaveRoleAdminShouldReturnStatusCode403" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StudentEndpointTokenTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" />
       </list>
     </recent_temporary>
   </component>
@@ -755,47 +758,47 @@
       <workItem from="1515492101355" duration="15020000" />
       <workItem from="1515580339518" duration="7114000" />
       <workItem from="1515598812251" duration="4932000" />
-      <workItem from="1515667561562" duration="9170000" />
+      <workItem from="1515667561562" duration="22170000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="StudentEndpointTest - 2018.01.11 at 10h 43m 50s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest - 2018.01.11 at 14h 53m 28s.xml">
+      <configuration name="StudentEndpointTokenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest - 2018.01.11 at 10h 44m 23s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_createShouldPersistDataAndReturnStatusCode201 - 2018.01.11 at 14h 52m 52s.xml">
+      <configuration name="StudentEndpointTokenTest.createShouldPersistDataAndReturnStatusCode201" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest - 2018.01.11 at 10h 45m 03s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_createWhenNameIsNullShouldReturnStatusCode400 - 2018.01.11 at 14h 51m 28s.xml">
+      <configuration name="StudentEndpointTokenTest.createWhenNameIsNullShouldReturnStatusCode400" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest - 2018.01.11 at 10h 49m 41s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_deleteWhenUserDoesNotHaveRoleAdminShouldReturnStatusCode403 - 2018.01.11 at 14h 49m 39s.xml">
+      <configuration name="StudentEndpointTokenTest.deleteWhenUserDoesNotHaveRoleAdminShouldReturnStatusCode403" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest - 2018.01.11 at 11h 01m 00s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404 - 2018.01.11 at 14h 48m 53s.xml">
+      <configuration name="StudentEndpointTokenTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest - 2018.01.11 at 11h 02m 57s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_deleteWhenUserHasRoleAdminAndStudentExistsShouldReturnStatusCode200 - 2018.01.11 at 14h 46m 46s.xml">
+      <configuration name="StudentEndpointTokenTest.deleteWhenUserHasRoleAdminAndStudentExistsShouldReturnStatusCode200" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest - 2018.01.11 at 11h 14m 04s.xml">
-      <configuration name="StudentEndpointTest" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_getStudentByIdWhenTokenIsCorrectAndStudentDoesNotExistShouldReturnStatusCode404 - 2018.01.11 at 14h 42m 26s.xml">
+      <configuration name="StudentEndpointTokenTest.getStudentByIdWhenTokenIsCorrectAndStudentDoesNotExistShouldReturnStatusCode404" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest_createShouldPersistDataAndReturnStatusCode201 - 2018.01.11 at 11h 13m 41s.xml">
-      <configuration name="StudentEndpointTest.createShouldPersistDataAndReturnStatusCode201" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_getStudentByIdWhenTokenIsCorrectShouldReturnStatusCode200 - 2018.01.11 at 14h 40m 41s.xml">
+      <configuration name="StudentEndpointTokenTest.getStudentByIdWhenTokenIsCorrectShouldReturnStatusCode200" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest_createWhenNameIsNullShouldReturnStatusCode400 - 2018.01.11 at 11h 11m 23s.xml">
-      <configuration name="StudentEndpointTest.createWhenNameIsNullShouldReturnStatusCode400" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_getStudentByIdWhenTokenIsIncorrectShouldReturnStatusCode403 - 2018.01.11 at 14h 39m 24s.xml">
+      <configuration name="StudentEndpointTokenTest.getStudentByIdWhenTokenIsIncorrectShouldReturnStatusCode403" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentEndpointTest_deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404 - 2018.01.11 at 11h 00m 24s.xml">
-      <configuration name="StudentEndpointTest.deleteWhenUserHasRoleAdminAndStudentDoesNotExistsShouldReturnStatusCode404" configurationId="JUnit" />
+    <history-entry file="StudentEndpointTokenTest_listStudentsWhenTokenIsCorrectShouldReturnStatusCode200 - 2018.01.11 at 14h 39m 38s.xml">
+      <configuration name="StudentEndpointTokenTest.listStudentsWhenTokenIsCorrectShouldReturnStatusCode200" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51937000" />
+    <option name="totallyTimeSpent" value="64937000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -814,7 +817,7 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36245954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36245954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38956127" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -822,6 +825,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23600605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -830,39 +834,40 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39967638" sideWeight="0.4969743" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22844176" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36245954" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38956127" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23600605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
@@ -874,55 +879,14 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="39" column="72" lean-forward="false" selection-start-line="39" selection-start-column="72" selection-end-line="39" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/error/ResourceNotFoundDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/error/ErrorDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="30" lean-forward="false" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/error/ValidationErrorDetails.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="63" column="0" lean-forward="true" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/handler/RestExceptionHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="48" column="70" lean-forward="false" selection-start-line="48" selection-start-column="70" selection-end-line="48" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="850">
@@ -1114,41 +1078,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/PasswordEncoder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="das://table:/9aeb9958/37069c45-d64f-46f1-b4b6-10a80e15dffe/school.user" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="41" lean-forward="true" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="7" lean-forward="false" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/service/CustomUserDetailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1242,14 +1176,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/StudentRepositoryTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -1266,18 +1192,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/security/spring-security-core/4.2.3.RELEASE/spring-security-core-4.2.3.RELEASE.jar!/org/springframework/security/core/userdetails/UserDetails.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/PasswordEncoder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/JWTAuthorizationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/JWTAuthenticationFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="21" column="0" lean-forward="true" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/service/CustomUserDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="42" column="63" lean-forward="true" selection-start-line="42" selection-start-column="63" selection-end-line="42" selection-end-column="63" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="133" column="58" lean-forward="false" selection-start-line="133" selection-start-column="58" selection-end-line="133" selection-end-column="58" />
+        <state relative-caret-position="-1445">
+          <caret line="32" column="26" lean-forward="false" selection-start-line="32" selection-start-column="26" selection-end-line="32" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/endpoint/StudentEndpointTokenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="76" column="48" lean-forward="false" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="48" />
+        <state relative-caret-position="400">
+          <caret line="88" column="21" lean-forward="false" selection-start-line="88" selection-start-column="21" selection-end-line="88" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/docs/SwaggerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="31" column="57" lean-forward="false" selection-start-line="31" selection-start-column="57" selection-end-line="31" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="25" column="88" lean-forward="false" selection-start-line="25" selection-start-column="88" selection-end-line="25" selection-end-column="88" />
           <folding />
         </state>
       </provider>

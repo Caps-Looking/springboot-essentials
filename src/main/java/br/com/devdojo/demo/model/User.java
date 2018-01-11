@@ -1,6 +1,5 @@
 package br.com.devdojo.demo.model;
 
-import com.fasterxml.jackson.annotation.JsonIgnore;
 import org.hibernate.validator.constraints.NotEmpty;
 
 import javax.persistence.Column;
@@ -14,7 +13,6 @@ public class User extends AbstractEntity {
     private String username;
 
     @NotEmpty
-    @JsonIgnore
     private String password;
 
     @NotEmpty

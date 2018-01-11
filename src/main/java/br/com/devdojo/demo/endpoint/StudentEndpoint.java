@@ -3,6 +3,9 @@ package br.com.devdojo.demo.endpoint;
 import br.com.devdojo.demo.error.ResourceNotFoundException;
 import br.com.devdojo.demo.model.Student;
 import br.com.devdojo.demo.repository.StudentRepository;
+import io.swagger.annotations.ApiImplicitParam;
+import io.swagger.annotations.ApiImplicitParams;
+import io.swagger.annotations.ApiOperation;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Pageable;
 import org.springframework.http.HttpStatus;
@@ -20,6 +23,7 @@ public class StudentEndpoint {
     @Autowired
     StudentRepository studentRepository;
 
+    @ApiOperation(value = "Return a list with all students", response = Student[].class)
     @GetMapping(path = "protected/students")
     public ResponseEntity<?> listAll(Pageable pageable) {
         return new ResponseEntity<>(studentRepository.findAll(pageable), HttpStatus.OK);
