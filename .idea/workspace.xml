@@ -6,7 +6,14 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="79d6feac-4724-444d-a7ce-d4f547527e67" name="Default" comment="" />
+    <list default="true" id="79d6feac-4724-444d-a7ce-d4f547527e67" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_h2database_h2_1_4_196.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/StudentRepositoryTest.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/springboot-essentials.iml" afterPath="$PROJECT_DIR$/springboot-essentials.iml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java" afterPath="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,11 +53,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="JavaSpringClientTest.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="JavaSpringClientTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaSpringClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentRepositoryTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/StudentRepositoryTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-110">
+              <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StudentRepository.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/StudentRepository.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -59,7 +96,7 @@
       <file leaf-file-name="RestResponseExceptionHandler.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/handler/RestResponseExceptionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="255">
               <caret line="20" column="105" lean-forward="false" selection-start-line="20" selection-start-column="105" selection-end-line="20" selection-end-column="105" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -71,8 +108,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+            <state relative-caret-position="298">
+              <caret line="64" column="23" lean-forward="false" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -81,7 +118,7 @@
       <file leaf-file-name="JavaClientDAO.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaClientDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10">
+            <state relative-caret-position="238">
               <caret line="25" column="70" lean-forward="false" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -142,14 +179,15 @@
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/UserRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/service/CustomUserDetailService.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/endpoint/StudentEndpoint.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/util/CustomSortDeserializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/PageableResponse.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaClientDAO.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/handler/RestResponseExceptionHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaSpringClientTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java" />
+        <option value="$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/StudentRepositoryTest.java" />
       </list>
     </option>
   </component>
@@ -328,7 +366,7 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator currentView="PackagesPane" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -342,7 +380,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -385,6 +422,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -430,6 +468,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="springboot-essentials" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springboot-essentials" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -453,6 +499,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CreateBuilderDialog.RecentsKey">
@@ -477,51 +524,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JavaSpringClientTest">
+  <component name="RunManager" selected="JUnit.StudentRepositoryTest.createWhenEmailIsNotValidShouldThrowConstraintViolationException">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
-    </configuration>
-    <configuration name="JavaSpringClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.devdojo.demo.javaclient.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.javaclient.JavaSpringClientTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="springboot-essentials" />
-      <envs />
-    </configuration>
-    <configuration name="PasswordEncoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="br.com.devdojo.demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.PasswordEncoder" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="springboot-essentials" />
-      <envs />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
@@ -537,7 +546,7 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="SpringBootEssentialsApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="StudentRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="br.com.devdojo.demo.*" />
@@ -548,9 +557,109 @@
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="br.com.devdojo.demo" />
-      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.SpringBootEssentialsApplicationTests" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.StudentRepositoryTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StudentRepositoryTest.createWhenEmailIsNotValidShouldThrowConstraintViolationException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.devdojo.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springboot-essentials" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="br.com.devdojo.demo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="createWhenEmailIsNotValidShouldThrowConstraintViolationException" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StudentRepositoryTest.createWhenNameIsNullShouldThrowConstraintViolationException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.devdojo.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springboot-essentials" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="br.com.devdojo.demo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="createWhenNameIsNullShouldThrowConstraintViolationException" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StudentRepositoryTest.findByNameIgnoreCaseContainingShouldFindContaining" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.devdojo.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springboot-essentials" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="br.com.devdojo.demo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="findByNameIgnoreCaseContainingShouldFindContaining" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="StudentRepositoryTest.findByNameIgnoreCaseContainingShouldIgnoreCase" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="br.com.devdojo.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="springboot-essentials" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="br.com.devdojo.demo" />
+      <option name="MAIN_CLASS_NAME" value="br.com.devdojo.demo.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="findByNameIgnoreCaseContainingShouldIgnoreCase" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -628,17 +737,21 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="4">
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.DemoApplication" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SpringBootEssentialsApplicationTests" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PasswordEncoder" />
-      <item index="3" class="java.lang.String" itemvalue="Application.JavaSpringClientTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.findByNameIgnoreCaseContainingShouldIgnoreCase" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.findByNameIgnoreCaseContainingShouldFindContaining" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.createWhenNameIsNullShouldThrowConstraintViolationException" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.createWhenEmailIsNotValidShouldThrowConstraintViolationException" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.JavaSpringClientTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PasswordEncoder" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.SpringBootEssentialsApplicationTests" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.createWhenEmailIsNotValidShouldThrowConstraintViolationException" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.createWhenNameIsNullShouldThrowConstraintViolationException" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.findByNameIgnoreCaseContainingShouldFindContaining" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.StudentRepositoryTest.findByNameIgnoreCaseContainingShouldIgnoreCase" />
       </list>
     </recent_temporary>
   </component>
@@ -662,19 +775,44 @@
       <workItem from="1515492101355" duration="15020000" />
       <workItem from="1515580339518" duration="7114000" />
       <workItem from="1515598812251" duration="4932000" />
+      <workItem from="1515667561562" duration="3366000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SpringBootEssentialsApplicationTests - 2018.01.05 at 14h 11m 44s.xml">
-      <configuration name="SpringBootEssentialsApplicationTests" configurationId="JUnit" />
+    <history-entry file="StudentRepositoryTest - 2018.01.11 at 09h 15m 16s.xml">
+      <configuration name="StudentRepositoryTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpringBootEssentialsApplicationTests - 2018.01.05 at 14h 14m 31s.xml">
-      <configuration name="SpringBootEssentialsApplicationTests" configurationId="JUnit" />
+    <history-entry file="StudentRepositoryTest - 2018.01.11 at 09h 25m 08s.xml">
+      <configuration name="StudentRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest - 2018.01.11 at 09h 31m 46s.xml">
+      <configuration name="StudentRepositoryTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_createWhenEmailIsNotValidShouldThrowConstraintViolationException - 2018.01.11 at 09h 37m 38s.xml">
+      <configuration name="StudentRepositoryTest.createWhenEmailIsNotValidShouldThrowConstraintViolationException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_createWhenNameIsNullShouldThrowConstraintViolationException - 2018.01.11 at 09h 29m 39s.xml">
+      <configuration name="StudentRepositoryTest.createWhenNameIsNullShouldThrowConstraintViolationException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_findByNameIgnoreCaseContainingShouldFindContaining - 2018.01.11 at 09h 23m 47s.xml">
+      <configuration name="StudentRepositoryTest.findByNameIgnoreCaseContainingShouldFindContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_findByNameIgnoreCaseContainingShouldFindContaining - 2018.01.11 at 09h 24m 32s.xml">
+      <configuration name="StudentRepositoryTest.findByNameIgnoreCaseContainingShouldFindContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_findByNameIgnoreCaseContainingShouldFindContaining - 2018.01.11 at 09h 24m 48s.xml">
+      <configuration name="StudentRepositoryTest.findByNameIgnoreCaseContainingShouldFindContaining" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_findByNameIgnoreCaseContainingShouldIgnoreCase - 2018.01.11 at 09h 22m 34s.xml">
+      <configuration name="StudentRepositoryTest.findByNameIgnoreCaseContainingShouldIgnoreCase" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_findByNameIgnoreCaseContainingShouldIgnoreCase - 2018.01.11 at 09h 22m 50s.xml">
+      <configuration name="StudentRepositoryTest.findByNameIgnoreCaseContainingShouldIgnoreCase" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42767000" />
+    <option name="totallyTimeSpent" value="46133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -696,11 +834,11 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5404531" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32847896" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2322239" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23600605" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -755,29 +893,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaSpringClientTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/service/CustomUserDetailService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/config/SecurityConfig.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -842,11 +962,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -931,11 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="39" lean-forward="false" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1044,20 +1154,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://table:/9aeb9958/37069c45-d64f-46f1-b4b6-10a80e15dffe/school.user">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/StudentRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://table:/9aeb9958/37069c45-d64f-46f1-b4b6-10a80e15dffe/school.user" />
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/UserRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -1076,9 +1173,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1086,14 +1180,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="27" column="13" lean-forward="false" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1112,23 +1198,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="101" lean-forward="false" selection-start-line="22" selection-start-column="101" selection-end-line="22" selection-end-column="101" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1049#1050#0" expanded="false" />
-            <element signature="e#1089#1090#0" expanded="false" />
-            <element signature="e#1134#1135#0" expanded="false" />
-            <element signature="e#1161#1162#0" expanded="false" />
-            <element signature="e#1202#1203#0" expanded="false" />
-            <element signature="e#1234#1235#0" expanded="false" />
-            <element signature="e#1280#1281#0" expanded="false" />
-            <element signature="e#1308#1309#0" expanded="false" />
-            <element signature="e#1351#1352#0" expanded="false" />
-            <element signature="e#1385#1386#0" expanded="false" />
-            <element signature="e#1433#1434#0" expanded="false" />
-            <element signature="e#1466#1467#0" expanded="false" />
-            <element signature="e#1515#1516#0" expanded="false" />
-            <element signature="e#1559#1560#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1144,13 +1213,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="79" column="77" lean-forward="true" selection-start-line="79" selection-start-column="4" selection-end-line="79" selection-end-column="77" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/handler/RestResponseExceptionHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="255">
           <caret line="20" column="105" lean-forward="false" selection-start-line="20" selection-start-column="105" selection-end-line="20" selection-end-column="105" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1158,17 +1226,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaClientDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10">
+        <state relative-caret-position="238">
           <caret line="25" column="70" lean-forward="false" selection-start-line="25" selection-start-column="70" selection-end-line="25" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1185,7 +1245,47 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/javaclient/JavaSpringClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <caret line="12" column="27" lean-forward="false" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="64" column="23" lean-forward="false" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/repository/StudentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="17" lean-forward="false" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/hibernate/hibernate-validator/5.3.6.Final/hibernate-validator-5.3.6.Final-sources.jar!/org/hibernate/validator/constraints/NotEmpty.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="45" column="13" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/br/com/devdojo/demo/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="62" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/br/com/devdojo/demo/StudentRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-110">
+          <caret line="21" column="54" lean-forward="false" selection-start-line="21" selection-start-column="54" selection-end-line="21" selection-end-column="54" />
           <folding />
         </state>
       </provider>
